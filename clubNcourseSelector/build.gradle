@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'ECHacks2018'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.apache.commons:commons-csv:1.5"
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
