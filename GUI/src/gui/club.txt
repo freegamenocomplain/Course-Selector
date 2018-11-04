@@ -1,0 +1,10 @@
+Clubs: Compsci Math Physics Chemistry Art Engineering Literature DECA Debate
+John: Compsci Math
+Jason: Physics Math
+Jordan: Chemistry Art
+Eric: Engineering DECA
+Bob: Debate Literature Chemistry
+Joe: Compsci Physics Debate
+Justin: Art
+Jill: Math Engineering DECA Debate
+Joeseph: Engineering Compsci Physics
